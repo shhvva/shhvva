@@ -1,4 +1,13 @@
-## Hi there 👋
+### Hi there 👋
+
+I'm Shiva, a computer science student from India.
+
+⚡ Work experience: <br>
+- **Intern at Edugene Technologies** - Learned AI-ML using Python [Hyderabad, Summer 2023]
+
+🌱 Interests:
+- Building products.
+- Cinematography.
 
 <!--
 **shhvva/shhvva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
